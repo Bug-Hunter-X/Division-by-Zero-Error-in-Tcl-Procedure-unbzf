@@ -1,0 +1,2 @@
+# Tcl Division by Zero Bug
+This repository demonstrates a common error in Tcl: division by zero. The `get_value` procedure attempts to divide by zero when the input `x` is not 0. This results in an error and program termination.  The solution shows how to prevent this error with proper error handling.
